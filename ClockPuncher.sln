@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockPuncher.Console", "ClockPuncher.Console\ClockPuncher.Console.csproj", "{8348D19B-0863-44F3-8CFF-65D202B00C22}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockPuncher.Console", "src\ClockPuncher.Console\ClockPuncher.Console.csproj", "{8348D19B-0863-44F3-8CFF-65D202B00C22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockPuncher.Application", "ClockPuncher.Application\ClockPuncher.Application.csproj", "{1D79DEAD-327F-4D68-B47B-8E2FBAD22698}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockPuncher.Application", "src\ClockPuncher.Application\ClockPuncher.Application.csproj", "{1D79DEAD-327F-4D68-B47B-8E2FBAD22698}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockPuncher.Domain", "ClockPuncher.Domain\ClockPuncher.Domain.csproj", "{CA2F8D4B-0B7F-4E6F-A79A-612AA86DC004}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockPuncher.Domain", "src\ClockPuncher.Domain\ClockPuncher.Domain.csproj", "{CA2F8D4B-0B7F-4E6F-A79A-612AA86DC004}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
